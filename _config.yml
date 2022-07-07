@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-leap-day
 paginate: 5
 plugins:
 - jekyll-paginate
