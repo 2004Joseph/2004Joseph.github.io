@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aprendiendo"
+title: "Aprendiendo Gt"
 ---
 
-Hoy vamos a hacer un blog utilizando Github y Markdown y va a quedar bien bonito y rápido.
+Hola Aprendegitalistas
